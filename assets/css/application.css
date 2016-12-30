@@ -1,0 +1,8 @@
+div{border-radius: 5px;}
+
+.winse_container{padding: 2%; max-width: 1200px; margin: 0 auto;}
+.bg{background-image: url("../img/bg/bg_1.jpg");background-attachment: fixed;filter:alpha(opacity=50)}
+.full{width: 100%; height: 100%;}
+.full_height{height: 100%;}
+.ibox{clear: both;margin-bottom: 25px;margin-top: 0;padding: 0;background-color: #ffffff;}
+.padding_top{padding-top: 20px;}
