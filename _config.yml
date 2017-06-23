@@ -17,13 +17,11 @@ title: Winse Blog
 email: 1260859052@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Nothing.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: null
 github_username:  weiWang95
 
-host: 0.0.0.0
-port: 4000
 paginate: 5
 # Build settings
 markdown: kramdown
