@@ -61,10 +61,12 @@ categories: ruby update
   ```ruby
   class A
     def method_missing(method_name, *args, &block)
-      puts "Method #{method_name.to_s}" not exist"
+      puts "Method #{method_name.to_s} not exist"
     end
   end
 
   a = A.new
   a.func_a   # => Method func_a not exist
   ```
+  与`:define_method`一起使用可动态定义方法，例：
+  待续
