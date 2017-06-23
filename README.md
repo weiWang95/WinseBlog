@@ -1,2 +1,0 @@
-# winse
-my blog
